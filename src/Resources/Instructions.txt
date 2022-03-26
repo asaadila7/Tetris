@@ -1,0 +1,28 @@
+[Left Arrow] - ⬅️ Move Left
+[Right Arrow] - Move Right ➡️
+[Up Arrow] - Turn Anticlockwise 🎡
+[Down Arrow]- Turn Clockwise
+[Z]- Drop Quickly
+[X] - Hold Piece
+
+[Objective] : Your objective is to fill up lines. Filled lines will disappear from the board and get you points. As soon as a piece is touching the top of the board, you will die.
+
+[Hold] : This will switch your piece out for a previously held piece if available or put the current piece on hold and shift down the pieces to accommodate
+
+[Score] : The number of lines you clear
+
+[Next] : Displays the next 3 pieces
+
+[Settings] : Allows you to turn on or off ghost piece (shows you where your piece will land) and to adjust volume
+
+[Hint] 😀 
+
+[I]-blocks are useful for getting 'Tetris', that is competing four lines at once.
+[O]-blocks for filling large gaps.
+[L]-blocks for filling medium-sized holes.
+[J]-blocks face the opposite direction as L-blocks.
+[S]-blocks for filling small holes.
+[Z]-blocks face the opposite direction as S-blocks.
+[T]-blocks are also for filling small holes.
+
+[Game Over!] When your stack of pieces reach the top of the screen the round ends. 😑
